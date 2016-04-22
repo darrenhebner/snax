@@ -1,0 +1,21 @@
+{
+  "name": "snax",
+  "version": "0.0.1",
+  "description": "AI powered Facebook bot to help you be less hungry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darren Hebner",
+  "license": "ISC",
+  "devDependencies": {
+    "facebook-chat-api": "^1.0.6",
+    "geocoder": "^0.2.2",
+    "mongoose": "^4.4.5",
+    "node-telegram-bot-api": "^0.20.1",
+    "node-wit": "^2.0.0"
+  },
+  "dependencies": {
+    "yelp": "^1.0.1"
+  }
+}

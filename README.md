@@ -1,5 +1,7 @@
 # How to make a chatbot with Node.js
 
+![Snax](https://pbs.twimg.com/media/CcKyZV6UsAI-yCt.jpg:large)
+
 ## Connecting to Telegram
 For this bot, I decided to use Telegram as the platform since they encourage bots and they make it dead simple to get started. There is an [awesome module](https://github.com/yagop/node-telegram-bot-api) that makes communicating with the telegram api easy. 
 
